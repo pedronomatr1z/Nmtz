@@ -1,0 +1,109 @@
+.logopeg{
+    width: 150px; 
+}
+
+header{
+   background: #b6b5b5bb
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+nav li{
+    display: inline;
+    font-size: 20px;
+    margin: 0 0 0 30px;
+    color: rgb(58, 47, 47)  
+}
+nav li:hover{
+    color: white;
+    font-size: 30px;
+}
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 140px;
+}
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    border: 2px solid #484848;
+    border-radius: 10px;
+}
+.p1{
+
+}
+.p2{
+    font-size: 18px;
+    color: blue;
+
+}
+.produtos li:hover{
+    border-color: #06c;
+
+}
+.produtos li:hover .p1{
+    font-size: 30px;
+}
+.ml{
+    width: 250px;
+    height: 250px;
+}
+.explorer{
+    width: 250px;
+    height: 250px;
+}
+.flyinv{
+    width: 250px;
+    height: 250px;
+}
+
+.violao{
+    width: 250px;
+    height: 250px;
+}
+.les{
+    width: 250px;
+    height: 250px;
+
+}
+
+.lp{
+    width: 250px;
+    height: 250px;
+
+}
+.video{
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.video2{
+    margin: 0 auto;
+    display: block;
+}
+
+
+footer{
+    text-align: center;
+    background-color: #b6b5b5bb;
+    padding: 50px 0;
+}
+.copyright{
+    color:rgb(70, 66, 66);
+    font-size:  30px;
+    margin-top: 20px;
+}
